@@ -1,0 +1,11 @@
+package System;
+
+public class Concrete {
+
+	public static void main(String[] args) {
+		Animal Dog = new Animal("Haw",5,150);
+		Dog.animalHeart(150);
+		
+	}
+
+}
